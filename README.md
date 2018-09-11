@@ -1,0 +1,2 @@
+# Scripts
+Compreensão em scripts
